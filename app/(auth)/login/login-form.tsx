@@ -36,7 +36,7 @@ export function LoginForm() {
   }
 
   return (
-    <Card className="w-full max-w-md">
+    <Card className="glass-strong rounded-2xl w-full max-w-md p-2">
       <CardHeader className="text-center">
         <div className="flex items-center justify-center gap-2 mb-2">
           <MapPin className="h-6 w-6 text-primary" />
